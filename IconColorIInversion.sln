@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32630.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconColorIInversion", "IconColorIInversion.csproj", "{0D121731-6B20-4A86-B514-75E5F915F97B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D121731-6B20-4A86-B514-75E5F915F97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D121731-6B20-4A86-B514-75E5F915F97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D121731-6B20-4A86-B514-75E5F915F97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D121731-6B20-4A86-B514-75E5F915F97B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3177A198-0444-4A3C-995D-E031B4D8D922}
+	EndGlobalSection
+EndGlobal
